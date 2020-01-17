@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="defc3b1a-bb8a-44bf-b512-131bd51225fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Erlang Module" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WFBrZWisdDuzkDidv9jTs1vCUj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/homework2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="defc3b1a-bb8a-44bf-b512-131bd51225fe" name="Default Changelist" comment="" />
+      <created>1578669087036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578669087036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure" timestamp="1578931620983">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="215" width="800" height="684" key="#Project_Structure/70.27.1850.1053@70.27.1850.1053" timestamp="1578931620983" />
+    <state x="647" y="358" width="686" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578669165471">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="647" y="358" width="686" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1578669165471" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578911480012">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1578911480012" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578994126459">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578994126459" />
+    <state x="640" y="284" width="710" height="538" key="find.popup" timestamp="1578669566592">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="640" y="284" width="710" height="538" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1578669566592" />
+    <state x="304" y="280" width="1372" height="554" key="new project wizard" timestamp="1579096194259">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="304" y="280" width="1372" height="554" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1579096194259" />
+  </component>
+</project>

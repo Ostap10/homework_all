@@ -1,0 +1,8 @@
+run_erl [7513] Mon Jan 13 15:15:22 2020
+Args before exec of shell:
+run_erl [7513] Mon Jan 13 15:15:22 2020
+argv[0] = sh
+run_erl [7513] Mon Jan 13 15:15:22 2020
+argv[1] = -c
+run_erl [7513] Mon Jan 13 15:15:22 2020
+argv[2] = exec "/home/step/IdeaProjects/homework/_rel/homework_release/bin/homework_release" "console" '' 
